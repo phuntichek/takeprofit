@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "875Ja9kZCS9KTiwL4BeByLjLl6/Efp7gWEWcka3qo6dL2QjA+L8I+9O1Bt1Gb1i++kO0Zbs5RhFpDsPT7GLiUQ==",
+  "success": true,
+  "projectFilePath": "/Users/phuntik/Desktop/Projects/tcpip/tcpip/tcpip.csproj",
+  "expectedPackageFiles": [
+    "/Users/phuntik/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/phuntik/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

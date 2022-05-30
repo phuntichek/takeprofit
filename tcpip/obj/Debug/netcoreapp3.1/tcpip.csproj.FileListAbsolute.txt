@@ -1,0 +1,17 @@
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/bin/Debug/netcoreapp3.1/tcpip.deps.json
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/bin/Debug/netcoreapp3.1/tcpip.runtimeconfig.json
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/bin/Debug/netcoreapp3.1/tcpip.runtimeconfig.dev.json
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/bin/Debug/netcoreapp3.1/tcpip.dll
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/bin/Debug/netcoreapp3.1/tcpip.pdb
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/obj/Debug/netcoreapp3.1/tcpip.csproj.AssemblyReference.cache
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/obj/Debug/netcoreapp3.1/tcpip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/obj/Debug/netcoreapp3.1/tcpip.AssemblyInfoInputs.cache
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/obj/Debug/netcoreapp3.1/tcpip.AssemblyInfo.cs
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/obj/Debug/netcoreapp3.1/tcpip.csproj.CoreCompileInputs.cache
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/obj/Debug/netcoreapp3.1/tcpip.dll
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/obj/Debug/netcoreapp3.1/tcpip.pdb
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/obj/Debug/netcoreapp3.1/tcpip.genruntimeconfig.cache
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/phuntik/Desktop/Projects/tcpip/tcpip/obj/Debug/netcoreapp3.1/tcpip.csproj.CopyComplete
