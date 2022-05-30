@@ -12,18 +12,6 @@ namespace tcpip
 {
     class Program
     {
-        public static void FindMedian(ConcurrentQueue<int> numsCollected)
-        {
-            List<int> n = new List<int>();
-            n = numsCollected.ToList();
-            n.Sort();
-            foreach (int i in n)
-                Console.WriteLine(i);
-            float med = (n[1008] + n[1009]) / 2;
-            Console.WriteLine("mediana = {0}", med);
-
-        }
-
         static void Main(string[] args)
         {
             ConcurrentQueue<int> numsToSend = new ConcurrentQueue<int>();
@@ -44,6 +32,18 @@ namespace tcpip
                 Console.WriteLine(n);
             Console.WriteLine("new queue");
             FindMedian(numsCollected);
+        }
+
+        public static void FindMedian(ConcurrentQueue<int> numsCollected)
+        {
+            List<int> n = new List<int>();
+            n = numsCollected.ToList();
+            n.Sort();
+            foreach (int i in n)
+                Console.WriteLine(i);
+            float med = (n[1008] + n[1009]) / 2;
+            Console.WriteLine("mediana = {0}", med);
+
         }
 
 
@@ -88,8 +88,9 @@ namespace tcpip
                     String server = "88.212.241.11";
                     TcpClient client = new TcpClient(server, port);
 
-                    numsToSend.TryDequeue(out var sent);
-                    Byte[] data = Encoding.ASCII.GetBytes(sent.ToString());
+                    numsToSend.TryDequeue(out int sent);
+                    String massage = sent.ToString() + "\n";
+                    Byte[] data = Encoding.ASCII.GetBytes(massage);
 
 
                     NetworkStream stream = client.GetStream();
